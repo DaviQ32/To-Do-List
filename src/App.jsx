@@ -42,6 +42,9 @@ export default function App() {
                 key={key}
                 deleteTarefa={deleteTarefa}
                 toggleCheck={toggleCheck}
+
+
+                
               />
             ))}
           </ul>
